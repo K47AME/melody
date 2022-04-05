@@ -1,6 +1,6 @@
 # Melody
 
-Link to [page](https://zhaks.github.io/melody/)
+Link to [page](https://imzhaks.github.io/melody/)
 
 Website for the Melody residential complex
 
