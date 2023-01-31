@@ -1,6 +1,6 @@
 # Melody
 
-Link to [page](https://mrtwohundredth.github.io/melody/)
+Link to [page](https://maybetomorrowow.github.io/melody/)
 
 Website for the Melody residential complex
 
